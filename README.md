@@ -4,10 +4,10 @@
 This project was created April 15, 2021 while the readme was created August 14, 2018
 
 ### Project Title
-Replace the Project Title
+Explore Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+The project focused on the use of R skills to explore and answer questions related to bikeshare data in three cities.
 
 ### Files used
 Include the files used
