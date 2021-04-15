@@ -10,7 +10,7 @@ Explore Bikeshare Data
 The project focused on the use of R skills to explore and answer questions related to bikeshare data in three cities.
 
 ### Files used
-Include the files used
+The files used are chicago.csv, new_york.csv, washington.csv and Explore_bikeshare_data.ipynb
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
